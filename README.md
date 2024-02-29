@@ -1,9 +1,10 @@
 # David Shapiro Reading List
-Public repo of the most influential books I've read
 
+Public repo of the most influential books I've read. Books are in no particular order. I've read most of these. Some are still on my TBR. Just because I read a book does not mean I endorse it. Sometimes I read books to get a broader perspective on how other people think. 
 
 | Title | Author | Note |
 |---|---|---|
+| The Fourth Turning | William Strauss | | 
 | Lifespan: Why We Age – and Why We Don’t Have To | Dr David A. Sinclair |  |
 | Outlive: The Science and Art of Longevity | Peter Attia MD |  | 
 | Younger Next Year: Live Strong, Fit, and Sexy - Until You're 80 and Beyond | Chris Crowley |  | 
@@ -61,37 +62,112 @@ Public repo of the most influential books I've read
 | It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences | June Casagrande |  | 
 | The Gods Themselves | Isaac Asimov |  | 
 | Tao Te Ching | Lao Tzu |  | 
- | Che Guevara: A Revolutionary Life (Revised Edition) | Jon Lee Anderson |  | 
- | Phantoms in the Brain: Probing the Mysteries of the Human Mind | V. S. Ramachandran |  | 
- | The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Who've Lived the Longest | Dan Buettner |  | 
- | The Blue Zones Kitchen: 100 Recipes to Live to 100 | Dan Buettner |  | 
- | Necessary Illusions: Thought Control in Democratic Societies (The CBC Massey Lectures) | Noam Chomsky |  | 
- | Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It | Leslie Becker-Phelps PhD |  | 
- | Economic Dignity | Gene Sperling |  | 
- | The Hero with a Thousand Faces (The Collected Works of Joseph Campbell) | Joseph Campbell |  | 
- | The Anarchy | William Dalrymple |  | 
- | Come as You Are: The Surprising New Science that Will Transform Your Sex Life | Emily Nagoski Ph.D. |  | 
- | Codependent No More: How to Stop Controlling Others and Start Caring for Yourself | Melody Beattie |  | 
- | Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Jackson MacKenzie |  | 
- | Healing from Hidden Abuse: A Journey Through the Stages of Recovery from Psychological Abuse | Shannon Thomas LCSW |  | 
- | The Fifth Discipline: The Art & Practice of The Learning Organization | Peter M. Senge |  | 
- | Recovering from Emotionally Immature Parents: Practical Tools to Establish Boundaries and Reclaim Your Emotional Autonomy | Lindsay C. Gibson |  | 
- | Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive | Marc Brackett Ph.D. |  | 
- | Running on Empty No More: Transform Your Relationships With Your Partner, Your Parents and Your Children | Jonice Webb PhD |  | 
- | Taming Your Outer Child: Overcoming Self-Sabotage and Healing from Abandonment | Susan Anderson |  | 
- | Love Me, Don't Leave Me: Overcoming Fear of Abandonment and Building Lasting, Loving Relationships | Michelle Skeen PsyD |  | 
- | Hold Me Tight: Seven Conversations for a Lifetime of Love (The Dr. Sue Johnson Collection, 1) | Dr. Sue Johnson EdD |  | 
- | Running on Empty: Overcome Your Childhood Emotional Neglect | Jonice Webb |  | 
- | Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents | Lindsay C. Gibson |  | 
- | Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma | Pete Walker |  | 
- | The Emotion Thesaurus: A Writer's Guide to Character Expression (Second Edition) (Writers Helping Writers Series) | Becca Puglisi |  | 
- | Neuroscience For Dummies | Frank Amthor |  | 
- | The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Bessel van der Kolk M.D. |  | 
- | Deep Learning with Python | Francois Chollet |  | 
- | The Zen Book | Daniel Levin |  | 
- | How to Win Friends & Influence People (Dale Carnegie Books) | Dale Carnegie |  | 
- | Thinking, Fast and Slow | Daniel Kahneman |  | 
- | Computer Vision | Simon J. D. Prince |  | 
- | Programming Computer Vision with Python: Tools and algorithms for analyzing images | Jan Solem |  | 
- | Gifted Grownups: The Mixed Blessings of Extraordinary Potential | Marylou Kelly Streznewski |  | 
- | The New Topping Book | Dossie Easton |  | 
+| Che Guevara: A Revolutionary Life (Revised Edition) | Jon Lee Anderson |  | 
+| Phantoms in the Brain: Probing the Mysteries of the Human Mind | V. S. Ramachandran |  | 
+| The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Who've Lived the Longest | Dan Buettner |  | 
+| The Blue Zones Kitchen: 100 Recipes to Live to 100 | Dan Buettner |  | 
+| Necessary Illusions: Thought Control in Democratic Societies (The CBC Massey Lectures) | Noam Chomsky |  | 
+| Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It | Leslie Becker-Phelps PhD |  | 
+| Economic Dignity | Gene Sperling |  | 
+| The Hero with a Thousand Faces (The Collected Works of Joseph Campbell) | Joseph Campbell |  | 
+| The Anarchy | William Dalrymple |  | 
+| Come as You Are: The Surprising New Science that Will Transform Your Sex Life | Emily Nagoski Ph.D. |  | 
+| Codependent No More: How to Stop Controlling Others and Start Caring for Yourself | Melody Beattie |  | 
+| Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Jackson MacKenzie |  | 
+| Healing from Hidden Abuse: A Journey Through the Stages of Recovery from Psychological Abuse | Shannon Thomas LCSW |  | 
+| The Fifth Discipline: The Art & Practice of The Learning Organization | Peter M. Senge |  | 
+| Recovering from Emotionally Immature Parents: Practical Tools to Establish Boundaries and Reclaim Your Emotional Autonomy | Lindsay C. Gibson |  | 
+| Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive | Marc Brackett Ph.D. |  | 
+| Running on Empty No More: Transform Your Relationships With Your Partner, Your Parents and Your Children | Jonice Webb PhD |  | 
+| Taming Your Outer Child: Overcoming Self-Sabotage and Healing from Abandonment | Susan Anderson |  | 
+| Love Me, Don't Leave Me: Overcoming Fear of Abandonment and Building Lasting, Loving Relationships | Michelle Skeen PsyD |  | 
+| Hold Me Tight: Seven Conversations for a Lifetime of Love (The Dr. Sue Johnson Collection, 1) | Dr. Sue Johnson EdD |  | 
+| Running on Empty: Overcome Your Childhood Emotional Neglect | Jonice Webb |  | 
+| Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents | Lindsay C. Gibson |  | 
+| Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma | Pete Walker |  | 
+| The Emotion Thesaurus: A Writer's Guide to Character Expression (Second Edition) (Writers Helping Writers Series) | Becca Puglisi |  | 
+| Neuroscience For Dummies | Frank Amthor |  | 
+| The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Bessel van der Kolk M.D. |  | 
+| Deep Learning with Python | Francois Chollet |  | 
+| The Zen Book | Daniel Levin |  | 
+| How to Win Friends & Influence People (Dale Carnegie Books) | Dale Carnegie |  | 
+| Thinking, Fast and Slow | Daniel Kahneman |  | 
+| Computer Vision | Simon J. D. Prince |  | 
+| Programming Computer Vision with Python: Tools and algorithms for analyzing images | Jan Solem |  | 
+| Gifted Grownups: The Mixed Blessings of Extraordinary Potential | Marylou Kelly Streznewski |  | 
+| The New Topping Book | Dossie Easton |  | 
+| Sand Talk: How Indigenous Thinking Can Save the World | | |
+| The Chalice and the Blade | | |
+| The Coming of the Third Reich | | |
+| Berlin Diary: The Journal of a Foreign Correspondent, 1934-1941 | | |
+| Secondhand Time: The Last of the Soviets | | |
+| The Unquiet Ghost: Russians Remember Stalin | | |
+| Lenin's Tomb: The Last Days of the Soviet Empire (Pulitzer Prize Winner) | | |
+| Leadership: In Turbulent Times | | |
+| The Hedonism Handbook: Mastering the Lost Arts of Leisure and Pleasure | | |
+| Dare to Lead: Brave Work. Tough Conversations. Whole Hearts. | | |
+| The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | | |
+| Total Recall: My Unbelievably True Life Story | | |
+| Finite and Infinite Games | | |
+| Behave: The Biology of Humans at Our Best and Worst | | |
+| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | | |
+| Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers | | |
+| What Got You Here Won't Get You There: How Successful People Become Even More Successful | | |
+| Get Out of Your Own Way: Overcoming Self-Defeating Behavior | | |
+| The Making of a Manager: What to Do When Everyone Looks to You | | |
+| Burnout: The Secret to Unlocking the Stress Cycle | | |
+| Laziness Does Not Exist | | |
+| The Only Grant-Writing Book You'll Ever Need | | |
+| Grant Writing for Dummies | | |
+| Consensus Through Conversations: How to Achieve High-Commitment Decisions | | |
+| A History of Japan: Revised Edition | | |
+| The Japanese Mind: Understanding Contemporary Japanese Culture | | |
+| Producing Open Source Software: How to Run a Successful Free Software Project | | |
+| Breaking Robert's Rules: The New Way to Run Your Meeting, Build Consensus, and Get Results | | |
+| How to Meet Think Work Consensus | | |
+| The Simulation Hypothesis: An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are In a Video Game | | |
+| Reality Is Not What It Seems: The Journey to Quantum Gravity | | |
+| Tales from Both Sides of the Brain: A Life in Neuroscience | | |
+| The Mayo Clinic Handbook for Happiness: A Four-Step Plan for Resilient Living | | |
+| Kushiel's Mercy (The Kushiel's Legacy, 3) | | |
+| Kushiel's Scion (Kushiel's Legacy) | | |
+| The Pattern Seekers: How Autism Drives Human Invention | | |
+| Understanding Autism in Adults and Aging Adults 2nd Edition: Updated in 2021 with New Insights for Improving Diagnosis and Quality of Life | | |
+| Unmasking Autism: Discovering the New Faces of Neurodiversity | | |
+| Braintrust: What Neuroscience Tells Us about Morality | | |
+| How Emotions Are Made: The Secret Life of the Brain | | |
+| Children of Dune | | |
+| Postmodernism: A Very Short Introduction | | |
+| From Modernism to Postmodernism (Blackwell Philosophy Anthologies) | | |
+| Nihilism | | |
+| Crucial Conversations Tools for Talking When Stakes Are High, Second Edition | | |
+| Sitting in the Fire: Large Group Transformation Using Conflict and Diversity | | |
+| Difficult Conversations: How to Discuss What Matters Most | | |
+| Psychedelic Psychotherapy: A User Friendly Guide to Psychedelic Drug-Assisted Psychotherapy | | |
+| The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data | | |
+| The Ghost in the Atom: A Discussion of the Mysteries of Quantum Physics | | |
+| Dmt: The Spirit Molecule: A Doctor's Revolutionary Research Into the Biology of Near-Death and Mystical Experiences | | |
+| Writing Magic: Creating Stories That Fly | | |
+| Life After Life: The Investigation of a Phenomenon--Survival of Bodily Death | | |
+| The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human | | |
+| Dark Matter and Dark Energy: The Hidden 95% of the Universe | | |
+| A Brief History of Neoliberalism | | |
+| The Great Mother: An Analysis of the Archetype | | |
+| The Wisdom Pattern: Order, Disorder, Reorder | | |
+| Dune Messiah | | |
+| Ancillary Sword | | |
+| Ancillary Mercy | | |
+| How to Deal with Emotionally Explosive People | | |
+| Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) | | |
+| Fire in the Belly: On Being a Man | | |
+| King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine | | |
+| The Facilitator's Guide to Participatory Decision-Maki | | |
+| Flow | | |
+| The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win | | |
+| Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships | | |
+| Innate: How the Wiring of Our Brains Shapes Who We Are | | |
+| On Task: How Our Brain Gets Things Done | | |
+| Unwinding Anxiety: New Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind | | |
+| Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry | | |
+| Shattered: Surviving the Loss of a Child | | |
+| Beyond Tears: Living After Losing a Child | | |

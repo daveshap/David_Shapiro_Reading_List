@@ -5,19 +5,10 @@ Public repo of the most influential books I've read
 | Title | Author | Note |
 |---|---|---|
 | Lifespan: Why We Age – and Why We Don’t Have To | Dr David A. Sinclair |  |
-
-Outlive: The Science and Art of Longevity
-Peter Attia MD
-
-Younger Next Year: Live Strong, Fit, and Sexy - Until You're 80 and Beyond
-Chris Crowley
-
-Fast After 50: How to Race Strong for the Rest of Your Life
-Joe Friel
-
-The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More
-Dr. Becky Campbell
-
+| Outlive: The Science and Art of Longevity | Peter Attia MD |  | 
+| Younger Next Year: Live Strong, Fit, and Sexy - Until You're 80 and Beyond | Chris Crowley |  | 
+| Fast After 50: How to Race Strong for the Rest of Your Life | Joe Friel |  | 
+| The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More | Dr. Becky Campbell |  | 
 The Science-Backed Anti-Inflammatory Diet for Beginners: A Hassle-Free Guide and Simple Meal Plan To Enhance Immunity, Optimize Gut Health, and Reduce Chronic Pain at Any Age
 Yasmine Elamir MD
 

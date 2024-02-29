@@ -46,120 +46,52 @@ Public repo of the most influential books I've read
 | How to Be Yourself: Quiet Your Inner Critic and Rise Above Social Anxiety | Ellen Hendriksen |  | 
 | Nihilism: The Root of the Revolution of the Modern Age | Seraphim Rose |  | 
 | The Forgetting Machine: Memory, Perception, and the Jennifer Aniston Neuron | Rodrigo Quian Quiroga |  | 
- | Philosophy of Physics: Quantum Theory (Princeton Foundations of Contemporary Philosophy, 19) | Tim Maudlin |  | 
+| Philosophy of Physics: Quantum Theory (Princeton Foundations of Contemporary Philosophy, 19) | Tim Maudlin |  | 
 | The Genius Myth | Michael Meade |  | 
- | Liquid Reign | Tim Reutemann |  | 
- | Liberating Losses: When Death Brings Relief | Jennifer Elison |  | 
- | The Covert Passive-Aggressive Narcissist: Recognizing the Traits and Finding Healing After Hidden Emotional and Psychological Abuse (The Narcissism Series) | Debbie Mirza |  | 
- | The Language Instinct: How the Mind Creates Language (Harper Perennial Modern Classics) | Steven Pinker |  | 
- | Creating a Life Together: Practical Tools to Grow Ecovillages and Intentional Communities | Diana Leafe Christian |  | 
- | I Was Told That He Wouldn?t Survive: My Dear Son | Jodi Lenaghen Daly |  | 
- | YOU MIGHT DIE TOMORROW: Face Your Fear of Death to Live Your Most Meaningful Life | Kate Manser |  | 
+| Liquid Reign | Tim Reutemann |  | 
+| Liberating Losses: When Death Brings Relief | Jennifer Elison |  | 
+| The Covert Passive-Aggressive Narcissist: Recognizing the Traits and Finding Healing After Hidden Emotional and Psychological Abuse (The Narcissism Series) | Debbie Mirza |  | 
+| The Language Instinct: How the Mind Creates Language (Harper Perennial Modern Classics) | Steven Pinker |  | 
+| Creating a Life Together: Practical Tools to Grow Ecovillages and Intentional Communities | Diana Leafe Christian |  | 
+| I Was Told That He Wouldn?t Survive: My Dear Son | Jodi Lenaghen Daly |  | 
+| YOU MIGHT DIE TOMORROW: Face Your Fear of Death to Live Your Most Meaningful Life | Kate Manser |  | 
 | Self-Editing for Fiction Writers, Second Edition: How to Edit Yourself Into Print | Renni Browne |  | 
- | How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence | Michael Pollan |  | 
- | The Power of a Positive No: Save The Deal Save The Relationship and Still Say No | William Ury |  | 
- | It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences | June Casagrande |  | 
- | The Gods Themselves | Isaac Asimov |  | 
- | Tao Te Ching | Lao Tzu |  | 
-
-Che Guevara: A Revolutionary Life (Revised Edition)
-Jon Lee Anderson
-
-Phantoms in the Brain: Probing the Mysteries of the Human Mind
-V. S. Ramachandran
-
-The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Who've Lived the Longest
-Dan Buettner
-
-The Blue Zones Kitchen: 100 Recipes to Live to 100
-Dan Buettner
-
-Necessary Illusions: Thought Control in Democratic Societies (The CBC Massey Lectures)
-Noam Chomsky
-
-Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It
-Leslie Becker-Phelps PhD
-
-Economic Dignity
-Gene Sperling
-
-The Hero with a Thousand Faces (The Collected Works of Joseph Campbell)
-Joseph Campbell
-
-The Anarchy
-William Dalrymple
-
-Come as You Are: The Surprising New Science that Will Transform Your Sex Life
-Emily Nagoski Ph.D.
-
-Codependent No More: How to Stop Controlling Others and Start Caring for Yourself
-Melody Beattie
-
-Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse
-Jackson MacKenzie
-
-Healing from Hidden Abuse: A Journey Through the Stages of Recovery from Psychological Abuse
-Shannon Thomas LCSW
-
-The Fifth Discipline: The Art & Practice of The Learning Organization
-Peter M. Senge
-
-Recovering from Emotionally Immature Parents: Practical Tools to Establish Boundaries and Reclaim Your Emotional Autonomy
-Lindsay C. Gibson
-
-Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive
-Marc Brackett Ph.D.
-
-Running on Empty No More: Transform Your Relationships With Your Partner, Your Parents and Your Children
-Jonice Webb PhD
-
-Taming Your Outer Child: Overcoming Self-Sabotage and Healing from Abandonment
-Susan Anderson
-
-Love Me, Don't Leave Me: Overcoming Fear of Abandonment and Building Lasting, Loving Relationships
-Michelle Skeen PsyD
-
-Hold Me Tight: Seven Conversations for a Lifetime of Love (The Dr. Sue Johnson Collection, 1)
-Dr. Sue Johnson EdD
-
-Running on Empty: Overcome Your Childhood Emotional Neglect
-Jonice Webb
-
-Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents
-Lindsay C. Gibson
-
-Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma
-Pete Walker
-
-The Emotion Thesaurus: A Writer's Guide to Character Expression (Second Edition) (Writers Helping Writers Series)
-Becca Puglisi
-
-Neuroscience For Dummies
-Frank Amthor
-
-The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
-Bessel van der Kolk M.D.
-
-Deep Learning with Python
-Francois Chollet
-
-The Zen Book
-Daniel Levin
-
-How to Win Friends & Influence People (Dale Carnegie Books)
-Dale Carnegie
-
-Thinking, Fast and Slow
-Daniel Kahneman
-
-Computer Vision
-Simon J. D. Prince
-
-Programming Computer Vision with Python: Tools and algorithms for analyzing images
-Jan Solem
-
-Gifted Grownups: The Mixed Blessings of Extraordinary Potential
-Marylou Kelly Streznewski
-
-The New Topping Book
-Dossie Easton
+| How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence | Michael Pollan |  | 
+| The Power of a Positive No: Save The Deal Save The Relationship and Still Say No | William Ury |  | 
+| It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences | June Casagrande |  | 
+| The Gods Themselves | Isaac Asimov |  | 
+| Tao Te Ching | Lao Tzu |  | 
+ | Che Guevara: A Revolutionary Life (Revised Edition) | Jon Lee Anderson |  | 
+ | Phantoms in the Brain: Probing the Mysteries of the Human Mind | V. S. Ramachandran |  | 
+ | The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Who've Lived the Longest | Dan Buettner |  | 
+ | The Blue Zones Kitchen: 100 Recipes to Live to 100 | Dan Buettner |  | 
+ | Necessary Illusions: Thought Control in Democratic Societies (The CBC Massey Lectures) | Noam Chomsky |  | 
+ | Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It | Leslie Becker-Phelps PhD |  | 
+ | Economic Dignity | Gene Sperling |  | 
+ | The Hero with a Thousand Faces (The Collected Works of Joseph Campbell) | Joseph Campbell |  | 
+ | The Anarchy | William Dalrymple |  | 
+ | Come as You Are: The Surprising New Science that Will Transform Your Sex Life | Emily Nagoski Ph.D. |  | 
+ | Codependent No More: How to Stop Controlling Others and Start Caring for Yourself | Melody Beattie |  | 
+ | Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Jackson MacKenzie |  | 
+ | Healing from Hidden Abuse: A Journey Through the Stages of Recovery from Psychological Abuse | Shannon Thomas LCSW |  | 
+ | The Fifth Discipline: The Art & Practice of The Learning Organization | Peter M. Senge |  | 
+ | Recovering from Emotionally Immature Parents: Practical Tools to Establish Boundaries and Reclaim Your Emotional Autonomy | Lindsay C. Gibson |  | 
+ | Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive | Marc Brackett Ph.D. |  | 
+ | Running on Empty No More: Transform Your Relationships With Your Partner, Your Parents and Your Children | Jonice Webb PhD |  | 
+ | Taming Your Outer Child: Overcoming Self-Sabotage and Healing from Abandonment | Susan Anderson |  | 
+ | Love Me, Don't Leave Me: Overcoming Fear of Abandonment and Building Lasting, Loving Relationships | Michelle Skeen PsyD |  | 
+ | Hold Me Tight: Seven Conversations for a Lifetime of Love (The Dr. Sue Johnson Collection, 1) | Dr. Sue Johnson EdD |  | 
+ | Running on Empty: Overcome Your Childhood Emotional Neglect | Jonice Webb |  | 
+ | Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents | Lindsay C. Gibson |  | 
+ | Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma | Pete Walker |  | 
+ | The Emotion Thesaurus: A Writer's Guide to Character Expression (Second Edition) (Writers Helping Writers Series) | Becca Puglisi |  | 
+ | Neuroscience For Dummies | Frank Amthor |  | 
+ | The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Bessel van der Kolk M.D. |  | 
+ | Deep Learning with Python | Francois Chollet |  | 
+ | The Zen Book | Daniel Levin |  | 
+ | How to Win Friends & Influence People (Dale Carnegie Books) | Dale Carnegie |  | 
+ | Thinking, Fast and Slow | Daniel Kahneman |  | 
+ | Computer Vision | Simon J. D. Prince |  | 
+ | Programming Computer Vision with Python: Tools and algorithms for analyzing images | Jan Solem |  | 
+ | Gifted Grownups: The Mixed Blessings of Extraordinary Potential | Marylou Kelly Streznewski |  | 
+ | The New Topping Book | Dossie Easton |  | 

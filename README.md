@@ -6,38 +6,38 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 
 | Title | Author | Note |
 |---|---|---|
-| The Fourth Turning | William Strauss | | 
+| The Fourth Turning | William Strauss | Intergenerational patterns and trends, archetypes | 
 | Lifespan: Why We Age – and Why We Don’t Have To | Dr David A. Sinclair |  |
 | Outlive: The Science and Art of Longevity | Peter Attia MD |  | 
 | Younger Next Year: Live Strong, Fit, and Sexy - Until You're 80 and Beyond | Chris Crowley |  | 
 | Fast After 50: How to Race Strong for the Rest of Your Life | Joe Friel |  | 
-| The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More | Dr. Becky Campbell |  | 
+| The 4-Phase Histamine Reset Plan: Getting to the Root of Migraines, Eczema, Vertigo, Allergies and More | Dr. Becky Campbell | Fixed my diet finally | 
 | The Science-Backed Anti-Inflammatory Diet for Beginners: A Hassle-Free Guide and Simple Meal Plan To Enhance Immunity, Optimize Gut Health, and Reduce Chronic Pain at Any Age | Yasmine Elamir MD |  | 
 | The Complete Anti-Inflammatory Diet for Beginners: A No-Stress Meal Plan with Easy Recipes to Heal the Immune System | Dorothy Calimeris |  | 
 | The Art Of War | Sun Tzu |  | 
-| A Short History of Chinese Philosophy | Yu-lan Fung |  | 
+| A Short History of Chinese Philosophy | Yu-lan Fung | Critical for understanding Chinese thinking and history | 
 | We're Not Broken: Changing the Autism Conversation | Eric Garcia |  | 
 | The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better | Will Storr |  | 
-| Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail | Ray Dalio |  | 
-| Basic Economics | Thomas Sowell |  | 
-| The Tragedy of Great Power Politics | John J. Mearsheimer |  | 
+| Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail | Ray Dalio | More important than Fourth Turning, pairs nicely | 
+| Basic Economics | Thomas Sowell | Critical for anyone who's a voter | 
+| The Tragedy of Great Power Politics | John J. Mearsheimer | Interesting take, good explanatory and predictive power | 
 | You're It: Crisis, Change, and How to Lead When It Matters Most | Leonard J. Marcus |  | 
-| The War on the West | Douglas Murray |  | 
+| The War on the West | Douglas Murray | Understanding conservative take | 
 | Expert Secrets: The Underground Playbook for Converting Your Online Visitors into Lifelong Customers | Russell Brunson |  | 
 | Launch (Updated & Expanded Edition): How to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams | Jeff Walker |  | 
-| Automatic Customer | John Warrillow |  | 
+| Automatic Customer | John Warrillow | Best book for Patreon creators | 
 | One Million Followers, Updated Edition: How I Built a Massive Social Following in 30 Days | Brendan Kane |  | 
-| The Dawn of Everything: A New History of Humanity | David Graeber |  | 
-| Sapiens: A Brief History of Humankind | Yuval Noah Harari |  | 
-| Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark |  | 
-| The Status Game: On Human Life and How to Play It | Will Storr |  | 
-| Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) | Salim Ismail |  | 
-| The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) (The Art Of Living Well) | Damon Zahariades |  | 
+| The Dawn of Everything: A New History of Humanity | David Graeber | Valid, but the style is postmodern garbage. So much white guilt and sarcasm. | 
+| Sapiens: A Brief History of Humankind | Yuval Noah Harari | Replace "fictions" with "narratives" and this book would have been perfect | 
+| Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark | Critical for understanding what's coming | 
+| The Status Game: On Human Life and How to Play It | Will Storr | The most important book I've ever read | 
+| Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) | Salim Ismail | Highly dated, but has some good ideas | 
+| The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) (The Art Of Living Well) | Damon Zahariades | Pales in comparison to Positive No | 
 | The Highly Sensitive Person's Guide to Dealing with Toxic People: How to Reclaim Your Power from Narcissists and Other Manipulators | Shahida Arabi MA |  | 
-| The Highly Sensitive Person: How to Thrive When the World Overwhelms You | Elaine N. Aron |  | 
+| The Highly Sensitive Person: How to Thrive When the World Overwhelms You | Elaine N. Aron | Quintessential book for HSPs | 
 | Unfinished Business: Women Men Work Family | Anne-Marie Slaughter |  | 
 | Polysecure: Attachment, Trauma and Consensual Nonmonogamy | Jessica Fern |  | 
-| Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life | Beth Kempton |  | 
+| Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life | Beth Kempton | Beautiful book, probably the best single book to understand Japanese philosophy | 
 | The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way | Héctor García |  | 
 | Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving | Celeste Headlee |  | 
 | The Art of Witty Banter: Be Clever, Quick, & Magnetic (2nd Edition) (How to be More Likable and Charismatic) | Patrick King |  | 

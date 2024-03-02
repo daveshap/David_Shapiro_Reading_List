@@ -157,7 +157,6 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 | The Great Mother: An Analysis of the Archetype | | |
 | The Wisdom Pattern: Order, Disorder, Reorder | | |
 | Dune Messiah | | |
-| Ancillary Sword | | |
 | Ancillary Mercy | | |
 | How to Deal with Emotionally Explosive People | | |
 | Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) | | |

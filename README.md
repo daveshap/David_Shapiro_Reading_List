@@ -2,6 +2,8 @@
 
 Public repo of the most influential books I've read. Books are in no particular order. I've read most of these. Some are still on my TBR. Just because I read a book does not mean I endorse it. Sometimes I read books to get a broader perspective on how other people think. 
 
+DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned. 
+
 | Title | Author | Note |
 |---|---|---|
 | The Fourth Turning | William Strauss | | 

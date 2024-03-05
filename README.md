@@ -13,6 +13,7 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | Replace "fictions" with "narratives" and this book would have been perfect | 
 | Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail | Ray Dalio | More important than Fourth Turning, pairs nicely | 
 | The Fourth Turning | William Strauss | Intergenerational patterns and trends, archetypes | 
+| Capital in the Twenty-First Century | Thomas Piketty | Pairs well with Basic Economics |
 | Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry | | |
 | A Short History of Chinese Philosophy | Yu-lan Fung | Critical for understanding Chinese thinking and history | 
 | Finite and Infinite Games | | Difficult to read, important idea. |

@@ -15,6 +15,7 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 | The Fourth Turning | William Strauss | Intergenerational patterns and trends, archetypes | 
 | Capital in the Twenty-First Century | Thomas Piketty | Pairs well with Basic Economics |
 | Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry | | |
+| Adrenal Transformation Protocol: A 4-Week Plan to Release Stress Symptoms and Go from Surviving to Thriving | Izabella Wentz | The single best resource on burnout and diet |
 | A Short History of Chinese Philosophy | Yu-lan Fung | Critical for understanding Chinese thinking and history | 
 | Finite and Infinite Games | | Difficult to read, important idea. |
 | It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences | June Casagrande | Best book on prose and writing | 

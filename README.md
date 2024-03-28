@@ -9,11 +9,12 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 | The Status Game: On Human Life and How to Play It | Will Storr | The most important book I've ever read | 
 | Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark | Critical for understanding what's coming | 
 | Braintrust: What Neuroscience Tells Us about Morality | Patricia Churchland | Evolutionary and neurological basis for morality |
-| Basic Economics | Thomas Sowell | Critical for anyone who's a voter | 
+| Capital in the Twenty-First Century | Thomas Piketty | Pairs well with Basic Economics |
+| Breath | James Nestor | Modern and ancient wisdom about how to breathe properly, metamodern perfection |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | Replace "fictions" with "narratives" and this book would have been perfect | 
 | Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail | Ray Dalio | More important than Fourth Turning, pairs nicely | 
 | The Fourth Turning | William Strauss | Intergenerational patterns and trends, archetypes | 
-| Capital in the Twenty-First Century | Thomas Piketty | Pairs well with Basic Economics |
+| Basic Economics | Thomas Sowell | Critical for anyone who's a voter | 
 | Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry | | |
 | Adrenal Transformation Protocol: A 4-Week Plan to Release Stress Symptoms and Go from Surviving to Thriving | Izabella Wentz | The single best resource on burnout and diet |
 | A Short History of Chinese Philosophy | Yu-lan Fung | Critical for understanding Chinese thinking and history | 
@@ -24,6 +25,7 @@ DO NOT SUBMIT A PULL REQUEST. It will be deleted and you will be banned.
 | The Power of a Positive No: Save The Deal Save The Relationship and Still Say No | William Ury | Best book on boundaries | 
 | Wabi Sabi: Japanese Wisdom for a Perfectly Imperfect Life | Beth Kempton | Beautiful book, probably the best single book to understand Japanese philosophy | 
 | The Genius Myth | Michael Meade |  | 
+| Homecoming | John Bradshaw | The single best book for inner child work |
 | The Fifth Discipline: The Art & Practice of The Learning Organization | Peter M. Senge | Okay. Dated. Has some good ideas. | 
 | The Language Instinct: How the Mind Creates Language (Harper Perennial Modern Classics) | Steven Pinker |  | 
 | Liquid Reign | Tim Reutemann | Good fictional view of how the future might be | 
